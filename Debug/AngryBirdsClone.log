@@ -1,0 +1,8 @@
+﻿  Background.cpp
+C:\Users\laptop\Desktop\AngryBirdsClone\src\Background.cpp(9,1): error C2512: 'GameObject': no appropriate default constructor available
+  Fowl.cpp
+  GameObject.cpp
+  main.cpp
+  Renderer.cpp
+  Generating Code...
+C:\Users\laptop\Desktop\AngryBirdsClone\src\GameObject.h(5,7): message : see declaration of 'GameObject'
